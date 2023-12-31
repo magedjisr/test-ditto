@@ -7,7 +7,7 @@
   "bulkactions-cancelconfirmation-cancelrequest_countrequestsim_other": "Cancel {{100_number}} requests immediately",
   "bulkactions-cancelconfirmation-doyouwanttocancel2requestsimm": "Do you want to cancel 2 requests immediately for 2 employees? test",
   "bulkactions-cancelconfirmation-doyouwanttocancel2requestsimm_two": "Do you want to cancel 2 requests immediately for 2 employees? test",
-  "bulkactions-cancelconfirmation-keeprequest": "Keep Request - test",
+  "bulkactions-cancelconfirmation-keeprequest": "Keep Request",
   "bulkactions-cancelconfirmation-cancel": "Cancel",
   "tasks-reassign-reassign2tasks": "Reassign {{number_2}} tasks",
   "tasks-reassign-reassign2tasks_two": "Reassign {{number_2}} tasks",
