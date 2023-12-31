@@ -1,0 +1,8 @@
+sources:
+  components:
+    root: true
+    folders:
+      - id: 658d8599233f6d4ce943607b
+        name: People management
+format: flat
+variants: true

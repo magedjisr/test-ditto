@@ -1,0 +1,21 @@
+{
+  "cards.pending": "Pending",
+  "cards.status": "Status",
+  "input.cancel": "Cancel",
+  "requests.tasks": "Taskss{{tasks}}",
+  "toast.action-success": "{{en_employee}} deleted successfully",
+  "toast.action-success_other": "{{en_employee}} deleted successfully",
+  "toast.action-success_one": "{{en_employee}} deleted successfully",
+  "toast.action-success_two": "{{en_employee}} deleted successfully",
+  "toast.action-success_zero": "{{en_employee}} deleted successfully",
+  "untitled-group.event-date": "Saturday, 1 July (1 Day)",
+  "untitled-group.present": "Present",
+  "untitled-group.present_other": "Present",
+  "untitled-group.present_one": "1 Present ",
+  "untitled-group.present_two": "2 Present",
+  "untitled-group.present_few": "43 Presents",
+  "untitled-group.present_many": "232cPresent",
+  "untitled-group.present_zero": "0 Present",
+  "need-help": "Need help",
+  "rejected-requests-title": "Rejected"
+}
