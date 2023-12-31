@@ -1,8 +1,8 @@
 sources:
   components:
     root: true
-    folders:
-      - id: 658d8599233f6d4ce943607b
-        name: People management
+  projects:
+    - id: 658d53e5a472bb7eeddf13b2
+      name: TEST Modal
 format: flat
 variants: true
