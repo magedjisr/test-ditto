@@ -1,0 +1,21 @@
+{
+  "label.text_field.address_home_country": "العنوان في البلد الأصلي (العنوان، المدينة/البلدة، البلد)",
+  "label.text_field.building_number": "رقم المبنى",
+  "label.text_field.city": "المدينة",
+  "label.text_field.district": "الحي",
+  "label.text_field.email": "البريد الإلكتروني",
+  "label.text_field.emergency_contact_address": "عنوان جهة الاتصال الطارئة",
+  "label.text_field.emergency_contact_telephone": "رقم هاتف جهة الاتصال الطارئة",
+  "label.text_field.employee_id": "رقم الموظف",
+  "label.text_field.employer_number": "رقم العامل",
+  "label.text_field.full_name_arabic": "الاسم الكامل (بالعربية)",
+  "label.text_field.full_name_english": "الاسم الكامل (بالإنجليزية)",
+  "label.text_field.id_iqama_number": "رقم الهوية / الإقامة",
+  "label.text_field.passport_number": "رقم جواز السفر",
+  "label.text_field.personal_email": "البريد الإلكتروني الشخصي",
+  "label.text_field.postal_code": "الرمز البريدي",
+  "label.text_field.street_name": "اسم الشارع",
+  "label.text_field.telephone": "رقم الهاتف",
+  "__variant-name": "Arabic",
+  "__variant-description": ""
+}

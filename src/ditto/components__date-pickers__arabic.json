@@ -1,0 +1,11 @@
+{
+  "label.date_picker.date_of_birth_gregorian": "تاريخ الميلاد (التقويم الميلادي)",
+  "label.date_picker.id_iqama_expiry_gregorian": "تاريخ انتهاء الهوية / الإقامة (التقويم الميلادي)",
+  "label.date_picker.id_iqama_expiry_hijri": "تاريخ انتهاء الهوية / الإقامة (التقويم الهجري)",
+  "label.date_picker.id_iqama_issue_date_gregorian": "تاريخ إصدار الهوية / الإقامة (التقويم الميلادي)",
+  "label.date_picker.id_iqama_issue_date_hijri": "تاريخ إصدار الهوية / الإقامة (التقويم الهجري)",
+  "label.date_picker.passport_expiry_date_gregorian": "تاريخ انتهاء جواز السفر (التقويم الميلادي)",
+  "label.date_picker.passport_issue_date_gregorian": "تاريخ إصدار جواز السفر (التقويم الميلادي)",
+  "__variant-name": "Arabic",
+  "__variant-description": ""
+}

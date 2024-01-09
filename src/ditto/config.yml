@@ -1,8 +1,5 @@
 sources:
   components:
-    root: true
-  projects:
-    - id: 658d53e5a472bb7eeddf13b2
-      name: TEST Modal
+    enabled: true
 format: flat
 variants: true

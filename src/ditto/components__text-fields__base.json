@@ -1,0 +1,19 @@
+{
+  "label.text_field.address_home_country": "Address in home country (Address, City, Country)",
+  "label.text_field.building_number": "Building number",
+  "label.text_field.city": "City",
+  "label.text_field.district": "District",
+  "label.text_field.email": "Email",
+  "label.text_field.emergency_contact_address": "Emergency contact address",
+  "label.text_field.emergency_contact_telephone": "Emergency contact telephone",
+  "label.text_field.employee_id": "Employee ID",
+  "label.text_field.employer_number": "Employer number",
+  "label.text_field.full_name_arabic": "Full name (Arabic)",
+  "label.text_field.full_name_english": "Full name (English)",
+  "label.text_field.id_iqama_number": "ID / Iqama number",
+  "label.text_field.passport_number": "Passport number",
+  "label.text_field.personal_email": "Personal email",
+  "label.text_field.postal_code": "Postal code",
+  "label.text_field.street_name": "Street name",
+  "label.text_field.telephone": "Telephone"
+}

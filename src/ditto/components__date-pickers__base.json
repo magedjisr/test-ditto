@@ -1,0 +1,9 @@
+{
+  "label.date_picker.date_of_birth_gregorian": "Date of birth (Gregorian)",
+  "label.date_picker.id_iqama_expiry_gregorian": "ID / Iqama expiry (Gregorian)",
+  "label.date_picker.id_iqama_expiry_hijri": "ID / Iqama expiry (Hijri)",
+  "label.date_picker.id_iqama_issue_date_gregorian": "ID / Iqama issue date (Gregorian)",
+  "label.date_picker.id_iqama_issue_date_hijri": "ID / Iqama issue date (Hijri)",
+  "label.date_picker.passport_expiry_date_gregorian": "Passport expiry date (Gregorian)",
+  "label.date_picker.passport_issue_date_gregorian": "Passport issue date (Gregorian)"
+}
